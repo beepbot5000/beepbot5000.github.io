@@ -7,3 +7,8 @@ max-width: 800px;
 h1 {
 text-align: center;
 }
+
+a {
+text-decoration: none;
+color: #0289cc;
+}
