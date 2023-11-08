@@ -1,0 +1,28 @@
+body {
+  font-family: monospace;
+  font-size: 130%;
+  width: 800px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+.scan {
+border: solid 3px black;
+}
+
+a:link { 
+    color: blue;
+    background-color: rgb(255,255,180);
+}
+a:hover {
+  background-color: yellow;
+}
+a:visited {
+  color: purple;
+}
+
+a:link:active, a:visited:active { 
+    color: red;
+}
