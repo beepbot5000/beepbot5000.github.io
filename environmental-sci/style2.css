@@ -1,0 +1,25 @@
+/* written by Alyssa circa August 2023 */
+
+body {
+margin-top: 0px;
+margin-bottom: 0px;
+background: url(stars.gif);
+}
+
+main {
+margin-left: auto;
+margin-right: auto;
+width: 800px;
+height: 900px;
+padding: .01px 15px 15px 15px;
+background: white;
+}
+
+h1 {
+text-align: center;
+}
+
+a {
+text-decoration: none;
+color: #0289cc;
+}
