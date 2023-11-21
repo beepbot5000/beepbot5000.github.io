@@ -8,7 +8,21 @@ h1 {
 text-align: center;
 }
 
+/*
 a {
 text-decoration: none;
 color: #0289cc;
+}
+*/
+
+details {
+margin-left: 10px;
+cursor: pointer;
+}
+
+details > p, details > h3 {
+border-left: solid 4.5px lightgrey;
+color: gray;
+cursor: regular;
+padding-left: 15px;
 }
